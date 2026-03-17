@@ -1,4 +1,4 @@
-## Hi there 👋
+## Assalomu Aleykum👋
 
 <!--
 **BlogCASH/BlogCash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
